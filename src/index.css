@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.primary-btn{
+  @apply h-16 w-44 text-white bg-gradient-to-r from-[#7E90FE] to-[#9873FF] rounded-lg;
+}
