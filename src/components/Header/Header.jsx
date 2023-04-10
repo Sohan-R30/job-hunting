@@ -8,7 +8,7 @@ const Header = () => {
                 <Link to="/">
                     <h2 className='font-bold text-3xl leading-10 text-textPrimary'>Job Hunting</h2>
                 </Link> 
-                <div className='text-textSecondary grid grid-cols-3 gap-5 justify-items-center items-center break-keep'>
+                <div className='text-textSecondary grid grid-cols-3 gap-5 justify-items-center items-center break-words'>
                     <NavLink to="/statistics" className={({isActive}) => isActive ? 'active-link' : ''}>Statistics</NavLink>
                     <NavLink to="/applied-jobs" className={({isActive}) => isActive ? 'active-link' : ''}>Applied Jobs</NavLink>
                     <NavLink to="/blog" className={({isActive}) => isActive ? 'active-link' : ''}>Blog</NavLink>
