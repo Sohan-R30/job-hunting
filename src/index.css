@@ -8,3 +8,6 @@
 .active-link{
   @apply text-transparent bg-gradient-to-r from-[#7E90FE] to-[#9873FF] bg-clip-text;
 }
+.bg-color{
+  @apply bg-gradient-to-r from-[#7e90fe0d] to-[#9873ff0d]
+}
