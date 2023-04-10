@@ -1,0 +1,182 @@
+[
+  {
+    "id": "a1b2c3d4",
+    "index":0,
+    "companyLogo": "resources/images/google-1.png",
+    "jobTitle": "Software Engineer",
+    "companyName": "Google",
+    "remoteOrOnsite": "Remote",
+    "location": "Mountain View, CA",
+    "fulltimeOrPartTime": "Full Time",
+    "salary": "150k-200k",
+    "jobDescription": "We're looking for a software engineer to join our team and help us build and maintain our suite of applications and services. You will work with a cross-functional team of engineers, designers, and product managers to create innovative solutions that help our users get things done.",
+    "jobResponsibility": "Responsibilities include: \n- Design, develop, and maintain software applications and services \n- Collaborate with cross-functional teams to develop innovative solutions \n- Write clean, efficient, and well-documented code \n- Stay up-to-date with emerging trends in software development",
+    "educationalRequirements": "Bachelor's degree in Computer Science or a related field",
+    "experiences": "3+ years of experience in software development",
+    "contactInformation": {
+      "phone": "+880 9611-555666",
+      "email": "hossain.arif22@gmail.com",
+      "address": "Tejgaon, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": "5e6f7g8h",
+    "index":1,
+    "companyLogo": "resources/images/netflix.png",
+    "jobTitle": "Product Manager",
+    "companyName": "Netflix",
+    "remoteOrOnsite": "Onsite",
+    "location": "Los Gatos, CA",
+    "fulltimeOrPartTime": "Full Time",
+    "salary": "180k-220k",
+    "jobDescription": "We're looking for a product manager to help us shape the future of entertainment. You will work with a team of engineers, designers, and data scientists to develop innovative products and features that delight our customers.",
+    "jobResponsibility": "Responsibilities include: \n- Develop and execute product strategies \n- Collaborate with cross-functional teams to develop innovative products and features \n- Analyze data to identify opportunities for improvement \n- Communicate product plans and status to stakeholders \n- Stay up-to-date with emerging trends in entertainment and technology",
+    "educationalRequirements": "Bachelor's degree in a related field, such as Business, Computer Science, or Engineering",
+    "experiences": "5+ years of experience in product management or a related field",
+    "contactInformation": {
+      "phone": "+880 2-9887144",
+      "email": "alamnashit@hotmail.com",
+      "address": "100 Gulshan Avenue, Dhaka 1212, Bangladesh"
+    }
+  },
+  {
+    "id": "i9j1k2l3",
+    "index":2,
+    "companyLogo": "resources/images/Facebook-logo.png",
+    "jobTitle": "Data Scientist",
+    "companyName": "Facebook",
+    "remoteOrOnsite": "Onsite",
+    "location": "Menlo Park, CA",
+    "fulltimeOrPartTime": "Part Time",
+    "salary": "180k-220k",
+    "jobDescription": "We're looking for a data scientist to join our team and help us leverage data to drive insights and decision-making across our organization. You will work on complex data problems and partner with cross-functional teams to drive impact.",
+    "jobResponsibility": "Responsibilities include: \n- Develop statistical models and algorithms to analyze data and generate insights \n- Work with cross-functional teams to define and measure key performance indicators \n- Design and implement experiments to test hypotheses \n- Communicate insights and recommendations to stakeholders",
+    "educationalRequirements": "Master's or Ph.D. in a quantitative field such as Statistics, Computer Science, or Mathematics",
+    "experiences": "5+ years of experience in data science or a related field",
+    "contactInformation": {
+      "phone": "+880 2-8821578",
+      "email": "jannatulfahima20@yahoo.com",
+      "address": "71, Purana Paltan Lane, Dhaka 1000, Bangladesh"
+    }
+  },
+  {
+    "id": "m4n5o6p7",
+    "index":3,
+    "companyLogo": "resources/images/uber.png",
+    "jobTitle": "Senior Software Engineer",
+    "companyName": "Uber",
+    "remoteOrOnsite": "Remote",
+    "location": "San Francisco, CA",
+    "fulltimeOrPartTime": "Full Time",
+    "salary": "200k-250k",
+    "jobDescription": "We're looking for a senior software engineer to help us build and maintain our platform at scale. You will work with a team of engineers and data scientists to develop innovative solutions that improve our rider and driver experiences.",
+    "jobResponsibility": "Responsibilities include: \n- Design, develop, and maintain high-performance software systems \n- Collaborate with cross-functional teams to develop innovative solutions \n- Write clean, efficient, and well-documented code \n- Stay up-to-date with emerging trends in software development",
+    "educationalRequirements": "Bachelor's degree in Computer Science or a related field",
+    "experiences": "7+ years of experience in software development",
+    "contactInformation": {
+      "phone": "+880 1714-016667",
+      "email": "rahmanfaruk39@outlook.com",
+      "address": "24/1-B, Khilji Road, Block-B, Mohammadpur, Dhaka-1207, Bangladesh"
+    }
+  },
+  {
+    "id": "q8r9s1t2",
+    "index":4,
+    "companyLogo": "resources/images/amazon.jpg",
+    "jobTitle": "Business Analyst",
+    "companyName": "Amazon",
+    "remoteOrOnsite": "Remote",
+    "location": "Seattle, WA",
+    "fulltimeOrPartTime": "Full Time",
+    "salary": "120k-150k",
+    "jobDescription": "We're looking for a business analyst to help us analyze and improve our business operations. You will work with a team of analysts and stakeholders to develop insights and recommendations that drive business growth and efficiency.",
+    "jobResponsibility": "Responsibilities include: \n- Analyze data and develop insights into business operations \n- Collaborate with cross-functional teams to develop recommendations and solutions \n- Communicate findings and recommendations to stakeholders \n- Stay up-to-date with emerging trends in business analytics",
+    "educationalRequirements": "Bachelor's degree in a related field, such as Business, Economics, or Engineering",
+    "experiences": "3+ years of experience in business analytics or a related field",
+    "contactInformation": {
+      "phone": "+880 2-8391901",
+      "email": "ahmedtanvir08@gmail.com",
+      "address": "BRAC Centre, 75 Mohakhali, Dhaka 1212, Bangladesh"
+    }
+  },
+  {
+    "id": "u3v4w5x6",
+    "index":5,
+    "companyLogo": "resources/images/tesla.png",
+    "jobTitle": "Mechanical Engineer",
+    "companyName": "Tesla",
+    "remoteOrOnsite": "Onsite",
+    "location": "Fremont, CA",
+    "fulltimeOrPartTime": "Full Time",
+    "salary": "120k-150k",
+    "jobDescription": "We're looking for a mechanical engineer to help us design and develop new products and technologies. You will work with a team of engineers, designers, and technicians to create innovative solutions that help us achieve our mission of accelerating the world's transition to sustainable energy.",
+    "jobResponsibility": "Responsibilities include: \n- Design and develop mechanical systems and components \n- Collaborate with cross-functional teams to develop innovative solutions \n- Conduct testing and analysis to validate design concepts \n- Stay up-to-date with emerging trends in mechanical engineering",
+    "educationalRequirements": "Bachelor's degree in Mechanical Engineering or a related field",
+    "experiences": "5+ years of experience in mechanical engineering or a related field",
+    "contactInformation": {
+      "phone": "+880 1911-819819",
+      "email": "sultanaamina27@yahoo.com",
+      "address": "Shadhinata Tower, Bir Uttam AK Khandakar Road, Dhaka-1205, Bangladesh"
+    }
+  },
+  {
+    "id": "y7z8a9b1",
+    "index":6,
+    "companyLogo": "resources/images/airbnb.png",
+    "jobTitle": "Product Designer",
+    "companyName": "Airbnb",
+    "remoteOrOnsite": "Remote",
+    "location": "San Francisco, CA",
+    "fulltimeOrPartTime": "Part Time",
+    "salary": "120k-150k",
+    "jobDescription": "We're looking for a product designer to help us create intuitive and delightful experiences for our users. You will work with a team of designers and cross-functional partners to develop design solutions that solve complex problems and push the boundaries of what is possible.",
+    "jobResponsibility": "Responsibilities include: \n- Collaborate with cross-functional teams to understand user needs and business requirements \n- Develop design concepts, wireframes, and prototypes \n- Conduct user research and usability testing \n- Iterate on designs based on feedback and data",
+    "educationalRequirements": "Bachelor's or Master's degree in Design or a related field",
+    "experiences": "3+ years of experience in product design or a related field",
+    "contactInformation": {
+      "phone": "+880 2-55045490",
+      "email": "hasanmahmudul12@gmail.com",
+      "address": "DCCI Building, 65-66 Motijheel C/A, Dhaka-1000, Bangladesh"
+    }
+  },
+  {
+    "id": "c2d3e4f5",
+    "index":7,
+    "companyLogo": "resources/images/salesforce.png",
+    "jobTitle": "Salesforce Developer",
+    "companyName": "Salesforce",
+    "remoteOrOnsite": "Remote",
+    "location": "San Francisco, CA",
+    "fulltimeOrPartTime": "Full Time",
+    "salary": "150k-200k",
+    "jobDescription": "We're looking for a Salesforce developer to help us build and maintain our Salesforce platform. You will work with a team of developers and stakeholders to develop custom solutions that improve our business operations and support our growth.",
+    "jobResponsibility": "Responsibilities include: \n- Develop and maintain Salesforce applications and integrations \n- Collaborate with cross-functional teams to develop innovative solutions \n- Write clean, efficient, and well-documented code \n- Stay up-to-date with emerging trends in Salesforce development",
+    "educationalRequirements": "Bachelor's degree in Computer Science or a related field",
+    "experiences": "5+ years of experience in Salesforce development or a related field",
+    "contactInformation": {
+      "phone": "+880 2-55040802",
+      "email": "mohammadamin32@hotmail.com",
+      "address": "House # 1/A, Road # 23, Gulshan-1, Dhaka-1212, Bangladesh"
+    }
+  },
+  {
+    "id": "g6h7i8j9",
+    "index":8,
+    "companyLogo": "resources/images/paypal.png",
+    "jobTitle": "Product Manager",
+    "companyName": "PayPal",
+    "remoteOrOnsite": "Remote",
+    "location": "San Jose, CA",
+    "fulltimeOrPartTime": "Part Time",
+    "salary": "150k-200k",
+    "jobDescription": "We're looking for a product manager to help us develop and execute our product strategy. You will work with cross-functional teams to develop innovative solutions that drive business growth and improve our customer experience.",
+    "jobResponsibility": "Responsibilities include: \n- Develop and execute product strategy \n- Collaborate with cross-functional teams to develop and launch products \n- Conduct market research and competitive analysis \n- Monitor and analyze product performance",
+    "educationalRequirements": "Bachelor's or Master's degree in Business, Engineering, or a related field",
+    "experiences": "5+ years of experience in product management or a related field",
+    "contactInformation": {
+      "phone": "+880 2-9144011",
+      "email": "akterrokeya25@yahoo.com",
+      "address": "Bangladesh Secretariat, Dhaka 1000, Bangladesh"
+    }
+  }
+]    

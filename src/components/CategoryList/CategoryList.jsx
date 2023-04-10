@@ -10,7 +10,7 @@ const CategoryList = () => {
         .then(data => setCategory(data))
       },[]);
     return (
-        <div className='mt-32'>
+        <div className='mt-32 max-w-7xl mx-auto'>
             <div className='text-center'>
                 <h3 className='text-textPrimary font-extrabold text-5xl pb-4'>Job Category List</h3>
                 <p className='text-textSecondary'>Explore thousands of job opportunities with all the information you need. Its your future</p>

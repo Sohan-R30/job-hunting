@@ -9,6 +9,7 @@ export default {
       colors: {
         "textPrimary": '#1A1919',
         "textSecondary": '#757575',
+        "borderColor": "#E8E8E8",
       },
       animation: {
         'spin-slow': 'pulse 6s linear infinite',
