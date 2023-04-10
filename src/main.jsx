@@ -18,29 +18,21 @@ import Home from './components/Home/Home';
 const router = createBrowserRouter([
   {
     path:"/",
-    element:<App></App>,
+    element:<Home></Home>,
     errorElement: <Error></Error>,
-    children: [
-      {
-        path:'/',
-        element: <Home></Home>
-      },
-      {
-        path:"statistics",
-        element: <Statistics></Statistics>
-      },
-      {
-        path:"applied-jobs",
-        element: <AppliedJobs></AppliedJobs>
-      },
-      {
-        path: "blog",
-        element: <Blog></Blog>
-      }
-    ]
   },
-  
-  
+  {
+    path:"statistics",
+    element: <Statistics></Statistics>
+  },
+  {
+    path:"applied-jobs",
+    element: <AppliedJobs></AppliedJobs>
+  },
+  {
+    path: "blog",
+    element: <Blog></Blog>
+  }
 ])
 
 ReactDOM.createRoot(document.getElementById('root')).render(

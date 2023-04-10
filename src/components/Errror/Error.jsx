@@ -9,7 +9,7 @@ const Error = () => {
             <p className='text-2xl'><span>{status} - <span>{statusText}</span></span></p>
             <p className='text-textSecondary text-xl my-5'>{error.message}</p>
             <Link to="/">
-                <button className='primary-btn'>Go To HomePage</button>
+                <button className='primary-btn w-60'>Go To HomePage</button>
             </Link>
         </div>
     );
