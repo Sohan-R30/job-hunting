@@ -6,6 +6,10 @@ export default {
   ],
   theme: {
     extend: {
+      colors: {
+        "textPrimary": '#1A1919',
+        "textSecondary": '#757575',
+      },
       animation: {
         'spin-slow': 'pulse 6s linear infinite',
       }
