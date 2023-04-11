@@ -4,7 +4,6 @@ import { faLocationDot,faDollarSign } from '@fortawesome/free-solid-svg-icons';
 import { Link } from 'react-router-dom';
 
 const ShowAppliedJobs = ({appliedJobData}) => {
-    console.log(appliedJobData);
     const {companyLogo,id,companyName,fulltimeOrPartTime,remoteOrOnsite,salary,location,jobTitle} = appliedJobData;
     return (
         <div className='max-w-xs md:max-w-7xl mx-auto md:flex items-center gap-8 my-6 border border-borderColor p-7 rounded-lg'>
