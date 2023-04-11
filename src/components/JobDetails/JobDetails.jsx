@@ -10,7 +10,6 @@ const JobDetails = () => {
 
     const jobData = useLoaderData();
     const singleId = useParams();
-    // const single = jobData.find(singleData => singleData.id === singleId.id)
     useEffect(() => {
         const singleData = jobData.find(singleData => singleData.id === singleId.id);
         setSingleJobData(singleData)
