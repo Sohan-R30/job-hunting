@@ -1,0 +1,37 @@
+[  
+    {    
+        "assignmentId": 1,    
+        "assignmentName": "NewYearFirstAssignment",    
+        "assignmentMarks": 57  
+    },
+    {    
+        "assignmentId": 2,    
+        "assignmentName": "g3-architects-project",    
+        "assignmentMarks": 58  
+    },
+    {    
+        "assignmentId": 3,    
+        "assignmentName": "legal-solution-resources-project",    
+        "assignmentMarks": 60  
+    },  
+    {    
+        "assignmentId": 4,    
+        "assignmentName": "javascript problem solving",    
+        "assignmentMarks": 59  
+    },  
+    {    
+        "assignmentId": 5,    
+        "assignmentName": "b7a5-geometry-genius-assignment-Sohan-R30",    
+        "assignmentMarks": 60  
+    },  
+    {    
+        "assignmentId": 6,    
+        "assignmentName": "b7a6-ai-universe-assignment-Sohan-R30",    
+        "assignmentMarks": 58  
+    },  
+    {    
+        "assignmentId": 7,    
+        "assignmentName": "b7a7-quiz-hero-Sohan-R30",    
+        "assignmentMarks": 60  
+    }
+]

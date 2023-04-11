@@ -14,7 +14,7 @@ const Banner = () => {
                     <button className='primary-btn w-40 mt-5 text-xl'>Get Started</button>
                 </div>
                 <div className='absolute bottom-0 right-0'>
-                    <img className='' src="/resources/images/P3OLGJ1 copy 1.png" alt="" />
+                    <img className='' src="/resources/images/P3OLGJ1-copy-1.png" alt="" />
                 </div>
             </div>
         </div>  

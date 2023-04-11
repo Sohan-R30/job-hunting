@@ -2,6 +2,7 @@ import React from 'react';
 import Header from '../Header/Header';
 
 const AppliedJobs = () => {
+
     return (
         <div className='bg-color relative'>
             <Header></Header>
