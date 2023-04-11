@@ -3,6 +3,7 @@ import Header from '../Header/Header';
 import { useEffect, useState } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faLocationDot,faDollarSign, faCalendarAlt, faPhone,faEnvelope } from '@fortawesome/free-solid-svg-icons';
+import { addToDb } from '../StoreData/StoreData';
 
 const JobDetails = () => {
     const [singleJobData, setSingleJobData] = useState({});
@@ -14,8 +15,9 @@ const JobDetails = () => {
         const singleData = jobData.find(singleData => singleData.id === singleId.id);
         setSingleJobData(singleData)
     },[singleJobData])
-    
-    console.log(singleJobData);
+    const handleStoreData = (id) => {
+        addToDb(id)
+    }
     return (
         <>
             <div className='bg-color relative'>
@@ -61,7 +63,7 @@ const JobDetails = () => {
                                 <p className='py-4'><strong>Address</strong> : <span className='text-textSecondary'>{singleJobData.contactInformation?.address}</span></p>
                             </div>
                         </div>
-                        <button className='text-center primary-btn flex items-center justify-center text-xl font-bold w-full my-6'>Apply Now</button>
+                        <button onClick={() => handleStoreData(singleId.id)} className='text-center primary-btn flex items-center justify-center text-xl font-bold w-full my-6'>Apply Now</button>
                    </div>
             </div>
         </>
