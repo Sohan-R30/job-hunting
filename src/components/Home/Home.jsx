@@ -8,17 +8,15 @@ import Footer from '../Footer/Footer';
 const Home = () => {
     return (
         <>
-            <header className='w-full bg-color'>
+            <div className='w-full bg-color'>
                 <Header></Header>
                 <Banner></Banner>
-            </header>
-            <main>
+            </div>
                 <CategoryList></CategoryList>
                 <FeaturedJob></FeaturedJob>
-            </main>
-            <footer className='mt-32 w-full bg-primaryColor 2xl:px-72'>
+            <div className='mt-32 w-full bg-primaryColor 2xl:px-72'>
                 <Footer></Footer>
-            </footer>
+            </div>
         </>
     );
 };

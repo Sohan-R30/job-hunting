@@ -5,8 +5,8 @@ import { faFacebook,faTwitter,faInstagram } from '@fortawesome/free-brands-svg-i
 const Footer = () => {
     return (
         <>
-            <div className='flex flex-wrap text-justify justify-around py-28 leading-8'>
-                <div className='w-80'>
+            <div className='flex flex-wrap text-justify justify-around py-20 leading-8 '>
+                <div className='sm:w-80'>
                     <h2 className='font-bold text-3xl leading-10 text-white py-5'>Job Hunting</h2>
                     <p className='text-secondaryColor'>There are many variations of passages of Lorem Ipsum , but the majority have suffered alteration in some form.</p>
                     <div className='flex gap-8 pt-5'>
@@ -48,7 +48,7 @@ const Footer = () => {
                     <p className='text-secondaryColor'>+1 777 - 978 - 5570</p>
                 </div>
             </div>
-            <div className='text-secondaryColor flex flex-wrap text-justify justify-start  px-14 pb-32'>
+            <div className='text-secondaryColor flex flex-wrap text-justify justify-start  px-14 pb-10'>
                 <p className='flex-grow'>@2023 CareerHub. All Rights Reserved</p>
                 <p>Powered by CareerHub</p>
             </div>
