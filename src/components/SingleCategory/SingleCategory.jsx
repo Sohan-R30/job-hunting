@@ -7,8 +7,8 @@ const SingleCategory = ({singleCategory}) => {
             <div className='rounded-lg mb-4'>
                 <img className='p-4 rounded-lg icon-bg' src={category_logo} alt={category_name} />
             </div>
-            <h4 className='pb-2 text-xl font-extrabold text-textPrimary'>{category_name}</h4>
-            <p className='text-textSecondary'>{jobs_availabe} Jobs Available</p>
+            <h4 className='pb-2 text-xl font-extrabold text-primaryColor'>{category_name}</h4>
+            <p className='text-secondaryColor'>{jobs_availabe} Jobs Available</p>
         </div>
     );
 };

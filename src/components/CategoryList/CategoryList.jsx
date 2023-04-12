@@ -12,8 +12,8 @@ const CategoryList = () => {
     return (
         <div className='mt-32 max-w-7xl mx-auto'>
             <div className='text-center'>
-                <h3 className='text-textPrimary font-extrabold text-5xl pb-4'>Job Category List</h3>
-                <p className='text-textSecondary'>Explore thousands of job opportunities with all the information you need. Its your future</p>
+                <h3 className='text-primaryColor font-extrabold text-5xl pb-4 break-all'>Job Category List</h3>
+                <p className='text-secondaryColor'>Explore thousands of job opportunities with all the information you need. Its your future</p>
             </div>
             <div className='flex flex-wrap justify-center items-center gap-6 mt-8'>
                 {

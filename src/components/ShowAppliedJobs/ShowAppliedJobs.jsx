@@ -9,13 +9,13 @@ const ShowAppliedJobs = ({appliedJobData}) => {
         <div className='max-w-xs md:max-w-7xl mx-auto md:flex items-center gap-8 my-6 border border-borderColor p-7 rounded-lg'>
             <img className='w-52 bg-[#F4F4F4] py-20 px-12 rounded-lg' src={companyLogo} alt={companyName} />
             <div className=' flex-grow'>
-                <h2 className='font-bold text-2xl text-textPrimary mt-4'>{jobTitle}</h2>
-                <p className='text-xl text-textSecondary mt-2'>{companyName}</p>
+                <h2 className='font-bold text-2xl text-primaryColor mt-4'>{jobTitle}</h2>
+                <p className='text-xl text-secondaryColor mt-2'>{companyName}</p>
                 <div className='flex gap-4 mt-2 flex-wrap'>
                     <button className='border-2 py-2 px-5 border-[#7E90FE] rounded-md'>{remoteOrOnsite}</button>
                     <button className='border-2 py-2 px-5 border-[#7E90FE] rounded-md'>{fulltimeOrPartTime}</button>
                 </div>
-                <div className='text-xl text-textSecondary flex gap-5 my-4 flex-wrap break-words'>
+                <div className='text-xl text-secondaryColor flex gap-5 my-4 flex-wrap break-words'>
                     <div className='flex items-center gap-2'>
                         <FontAwesomeIcon icon={faLocationDot} />
                         <p>{location}</p>

@@ -7,8 +7,8 @@ export default {
   theme: {
     extend: {
       colors: {
-        "textPrimary": '#1A1919',
-        "textSecondary": '#757575',
+        "primaryColor": '#1A1919',
+        "secondaryColor": '#757575',
         "borderColor": "#E8E8E8",
       },
       animation: {

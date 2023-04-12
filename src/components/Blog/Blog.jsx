@@ -1,17 +1,18 @@
 import React from 'react';
 import Header from '../Header/Header';
+import Footer from '../Footer/Footer';
 
 const Blog = () => {
     return (
         <>
-        <div className='bg-color relative'>
+        <header className='bg-color relative'>
             <Header></Header>
             <p className='text-center mt-14 font-bold text-3xl'>Blog</p>
             <div>
                  <img src="/resources/images/Vector.png" alt="" />
                  <img className='absolute top-0 right-0' src="/resources/images/Vector-1.png" alt="" />
             </div>
-        </div>
+        </header>
         <div className='text-justify border-2 w-3/4 mx-auto m-10 p-10 rounded-lg'>
                 <div>
                     <p className='text-2xl font-bold'>1. When should you use context API?</p>
@@ -27,6 +28,9 @@ const Blog = () => {
                 </div>
                 
         </div>
+        <footer className='mt-32 w-full bg-primaryColor 2xl:px-72'>
+                <Footer></Footer>
+        </footer>
         </>
     );
 };

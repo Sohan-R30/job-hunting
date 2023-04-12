@@ -10,13 +10,13 @@ const SingleFeaturedJob = ({singleFeaturedJob}) => {
     return (
         <div className=' w-9/12 sm:w-2/4 lg:max-w-2xl lg:min-w-full  h-full border border-borderColor py-10 pl-10 rounded-lg flex flex-col text-start'>
             <img className='max-w-xs max-h-28 min-h-[120px]' src={companyLogo} alt={companyName} />
-            <h2 className='font-extrabold text-2xl text-textPrimary mt-8'>{jobTitle}</h2>
-            <p className='text-xl text-textSecondary mt-4'>{companyName}</p>
+            <h2 className='font-extrabold text-2xl text-primaryColor mt-8'>{jobTitle}</h2>
+            <p className='text-xl text-secondaryColor mt-4'>{companyName}</p>
             <div className='flex gap-4 mt-4 flex-wrap'>
                 <button className='border-2 py-2 px-5 border-[#7E90FE] rounded-md'>{remoteOrOnsite}</button>
                 <button className='border-2 py-2 px-5 border-[#7E90FE] rounded-md'>{fulltimeOrPartTime}</button>
             </div>
-            <div className='text-xl text-textSecondary flex gap-5 my-4 flex-wrap break-words'>
+            <div className='text-xl text-secondaryColor flex gap-5 my-4 flex-wrap break-words'>
                 <div className='flex items-center gap-2'>
                     <FontAwesomeIcon icon={faLocationDot} />
                     <p>{location}</p>

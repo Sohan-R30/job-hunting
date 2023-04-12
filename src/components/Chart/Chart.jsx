@@ -1,44 +1,10 @@
 import React, { PureComponent } from 'react';
+import { useLoaderData } from 'react-router-dom';
 import {ResponsiveContainer, AreaChart, CartesianGrid, XAxis, YAxis, Tooltip ,Area, Legend} from 'recharts';
 
-const data = [  
-    {    
-        "assignmentId": 1,    
-        "assignmentName": "NewYearAssignment",    
-        "assignmentMarks": 57  
-    },
-    {    
-        "assignmentId": 2,    
-        "assignmentName": "g3-architects-project",    
-        "assignmentMarks": 58  
-    },
-    {    
-        "assignmentId": 3,    
-        "assignmentName": "legal-solution-resources",    
-        "assignmentMarks": 60  
-    },  
-    {    
-        "assignmentId": 4,    
-        "assignmentName": "javascript problem solving",    
-        "assignmentMarks": 59  
-    },  
-    {    
-        "assignmentId": 5,    
-        "assignmentName": "geometry-genius",    
-        "assignmentMarks": 60  
-    },  
-    {    
-        "assignmentId": 6,    
-        "assignmentName": "ai-universe-assignment",    
-        "assignmentMarks": 58  
-    },  
-    {    
-        "assignmentId": 7,    
-        "assignmentName": "b7a7-quiz-hero",    
-        "assignmentMarks": 60  
-    }
-]
+
 const Chart = () => {
+    const data = useLoaderData();
     return (
         <div>
             <ResponsiveContainer width="100%" aspect={3}>
@@ -58,8 +24,8 @@ const Chart = () => {
                     <YAxis dataKey='assignmentMarks'/>
                     <Tooltip/>
                     <Legend verticalAlign="top" height={36} />
-                    <Area type="natural" dataKey='assignmentMarks' stroke="#82ca9d" fillOpacity={1} fill="url(#colorUv)" />
-                    <Area type="natural" dataKey='assignmentName' stroke="#8884d8" fillOpacity={1} fill="url(#colorUv)" />
+                    <Area type="Function" dataKey='assignmentName' stroke="#8884d8" fillOpacity={1} fill="url(#colorUv)" />
+                    <Area type="Function" dataKey='assignmentMarks' stroke="#82ca9d" fillOpacity={1} fill="url(#colorUv)" />
                 </AreaChart>
             </ResponsiveContainer>
         </div>

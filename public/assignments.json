@@ -1,17 +1,17 @@
 [  
     {    
         "assignmentId": 1,    
-        "assignmentName": "NewYearFirstAssignment",    
+        "assignmentName": "NewYearAssignment",    
         "assignmentMarks": 57  
     },
     {    
         "assignmentId": 2,    
-        "assignmentName": "g3-architects-project",    
+        "assignmentName": "g3-architects",    
         "assignmentMarks": 58  
     },
     {    
         "assignmentId": 3,    
-        "assignmentName": "legal-solution-resources-project",    
+        "assignmentName": "legal-solution-resources",    
         "assignmentMarks": 60  
     },  
     {    
@@ -21,17 +21,17 @@
     },  
     {    
         "assignmentId": 5,    
-        "assignmentName": "b7a5-geometry-genius-assignment-Sohan-R30",    
+        "assignmentName": "b7a5-geometry-genius",    
         "assignmentMarks": 60  
     },  
     {    
         "assignmentId": 6,    
-        "assignmentName": "b7a6-ai-universe-assignment-Sohan-R30",    
+        "assignmentName": "b7a6-ai-universe",    
         "assignmentMarks": 58  
     },  
     {    
         "assignmentId": 7,    
-        "assignmentName": "b7a7-quiz-hero-Sohan-R30",    
+        "assignmentName": "b7a7-quiz-hero",    
         "assignmentMarks": 60  
     }
 ]

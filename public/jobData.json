@@ -178,5 +178,25 @@
       "email": "akterrokeya25@yahoo.com",
       "address": "Bangladesh Secretariat, Dhaka 1000, Bangladesh"
     }
+  },
+  {
+    "id": "f5e4d3c2",
+    "index": 9,
+    "companyLogo": "resources/images/Dropbox-Logo.png",
+    "jobTitle": "Software Engineer",
+    "companyName": "Dropbox",
+    "remoteOrOnsite": "Remote",
+    "location": "San Francisco, CA",
+    "fulltimeOrPartTime": "Full Time",
+    "salary": "140k-180k",
+    "jobDescription": "We're looking for a software engineer to join our team and help us build and scale our cloud-based file storage and collaboration platform. You will work with a team of engineers to develop new features, improve existing functionality, and optimize performance.",
+    "jobResponsibility": "Responsibilities include: \n- Design and implement new features and functionality \n- Collaborate with cross-functional teams to solve complex problems \n- Write clean, efficient, and well-documented code \n- Participate in code reviews and provide feedback to other engineers",
+    "educationalRequirements": "Bachelor's or Master's degree in Computer Science or a related field",
+    "experiences": "3+ years of experience in software engineering or a related field",
+    "contactInformation": {
+        "phone": "+8809-1812345",
+        "email": "amin0298@gmail.com",
+        "address": "123 Main St, Dhaka 1207, Bangladesh"
+      }
   }
 ]    
